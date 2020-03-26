@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wonder4work.mapper.UserAddressMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.wonder4work.pojo.UserAddress">
+        <id column="id" property="id" />
+        <result column="user_id" property="userId" />
+        <result column="receiver" property="receiver" />
+        <result column="mobile" property="mobile" />
+        <result column="province" property="province" />
+        <result column="city" property="city" />
+        <result column="district" property="district" />
+        <result column="detail" property="detail" />
+        <result column="extand" property="extand" />
+        <result column="is_default" property="isDefault" />
+        <result column="created_time" property="createdTime" />
+        <result column="updated_time" property="updatedTime" />
+    </resultMap>
+
+</mapper>

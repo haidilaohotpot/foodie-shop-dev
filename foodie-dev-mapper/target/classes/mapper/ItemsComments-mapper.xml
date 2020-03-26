@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wonder4work.mapper.ItemsCommentsMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.wonder4work.pojo.ItemsComments">
+        <id column="id" property="id" />
+        <result column="user_id" property="userId" />
+        <result column="item_id" property="itemId" />
+        <result column="item_name" property="itemName" />
+        <result column="item_spec_id" property="itemSpecId" />
+        <result column="sepc_name" property="sepcName" />
+        <result column="comment_level" property="commentLevel" />
+        <result column="content" property="content" />
+        <result column="created_time" property="createdTime" />
+        <result column="updated_time" property="updatedTime" />
+    </resultMap>
+
+</mapper>

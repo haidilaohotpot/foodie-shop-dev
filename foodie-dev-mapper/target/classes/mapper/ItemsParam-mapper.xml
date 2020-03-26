@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wonder4work.mapper.ItemsParamMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.wonder4work.pojo.ItemsParam">
+        <id column="id" property="id" />
+        <result column="item_id" property="itemId" />
+        <result column="produc_place" property="producPlace" />
+        <result column="foot_period" property="footPeriod" />
+        <result column="brand" property="brand" />
+        <result column="factory_name" property="factoryName" />
+        <result column="factory_address" property="factoryAddress" />
+        <result column="packaging_method" property="packagingMethod" />
+        <result column="weight" property="weight" />
+        <result column="storage_method" property="storageMethod" />
+        <result column="eat_method" property="eatMethod" />
+        <result column="created_time" property="createdTime" />
+        <result column="updated_time" property="updatedTime" />
+    </resultMap>
+
+</mapper>

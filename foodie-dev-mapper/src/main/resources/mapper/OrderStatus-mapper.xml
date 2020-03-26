@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wonder4work.mapper.OrderStatusMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.wonder4work.pojo.OrderStatus">
+        <id column="order_id" property="orderId" />
+        <result column="order_status" property="orderStatus" />
+        <result column="created_time" property="createdTime" />
+        <result column="pay_time" property="payTime" />
+        <result column="deliver_time" property="deliverTime" />
+        <result column="success_time" property="successTime" />
+        <result column="close_time" property="closeTime" />
+        <result column="comment_time" property="commentTime" />
+    </resultMap>
+
+</mapper>

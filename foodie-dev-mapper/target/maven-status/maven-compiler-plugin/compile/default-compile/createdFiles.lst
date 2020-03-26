@@ -1,0 +1,13 @@
+com\wonder4work\mapper\CategoryMapper.class
+com\wonder4work\mapper\OrdersMapper.class
+com\wonder4work\mapper\UsersMapper.class
+com\wonder4work\mapper\ItemsCommentsMapper.class
+com\wonder4work\mapper\StuMapper.class
+com\wonder4work\mapper\ItemsSpecMapper.class
+com\wonder4work\mapper\OrderStatusMapper.class
+com\wonder4work\mapper\CarouselMapper.class
+com\wonder4work\mapper\ItemsMapper.class
+com\wonder4work\mapper\ItemsParamMapper.class
+com\wonder4work\mapper\OrderItemsMapper.class
+com\wonder4work\mapper\UserAddressMapper.class
+com\wonder4work\mapper\ItemsImgMapper.class
