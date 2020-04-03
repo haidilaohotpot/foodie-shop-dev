@@ -14,4 +14,8 @@
         <result column="bg_color" property="bgColor" />
     </resultMap>
 
+
+
+
+
 </mapper>

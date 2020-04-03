@@ -1,4 +1,4 @@
-package com.wonder4work.cofig;
+package com.wonder4work.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -18,7 +18,7 @@ public class CorsConfig {
 
         // 跨域配置基本信息
         CorsConfiguration corsConfiguration = new CorsConfiguration();
-        corsConfiguration.addAllowedOrigin("http://localhost:8080");
+        corsConfiguration.addAllowedOrigin("http://localhost:63343");
         corsConfiguration.setAllowCredentials(true); // 凭证 是否发送cookie信息
         corsConfiguration.addAllowedMethod("*"); // 设置允许请求的方式
         corsConfiguration.addAllowedHeader("*"); // 设置允许的header

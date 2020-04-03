@@ -2,6 +2,11 @@ package com.wonder4work.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.wonder4work.pojo.Category;
+import com.wonder4work.pojo.vo.CategoryVO;
+import org.apache.ibatis.annotations.Mapper;
+import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 /**
  * <p>

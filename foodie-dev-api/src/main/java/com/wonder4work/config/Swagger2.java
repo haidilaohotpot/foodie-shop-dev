@@ -1,4 +1,4 @@
-package com.wonder4work.cofig;
+package com.wonder4work.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
