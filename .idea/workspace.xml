@@ -12,18 +12,16 @@
   <component name="ChangeListManager">
     <list default="true" id="5a404868-cdef-4ca8-b288-e692af5602e5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/cofig/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/cofig/Swagger2.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/Swagger2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/ApplicationBootstrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/ApplicationBootstrap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/aspect/ServiceLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/aspect/ServiceLogAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/cofig/CorsConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/cofig/Swagger2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/controller/PassportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/wonder4work/controller/PassportController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/config/Swagger2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/cofig/Swagger2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/CategoryLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/CategoryLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/CommentLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/CommentLevel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/Sex.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/Sex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/YesOrNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/enums/YesOrNo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/utils/CookieUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/utils/CookieUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/utils/DateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/utils/DateUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/utils/JSONResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/wonder4work/utils/JSONResult.class" afterDir="false" />
@@ -49,13 +47,6 @@
       <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/org/n3r/idworker/utils/Props.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/org/n3r/idworker/utils/Props.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/org/n3r/idworker/utils/Serializes.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/org/n3r/idworker/utils/Serializes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/org/n3r/idworker/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/org/n3r/idworker/utils/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/CategoryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/Category-mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/Category-mapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/classes/mapper/Category-mapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Carousel.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Carousel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Category.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Items.class" afterDir="false" />
@@ -70,17 +61,11 @@
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/UserAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/UserAddress.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/Users.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/bo/UserBO.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/wonder4work/pojo/bo/UserBO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/CarouselService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/CarouselService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/CarouselServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/CarouselServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/CarouselService.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/CarouselService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/CategoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/impl/CarouselServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/impl/CarouselServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/impl/CategoryServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/ItemsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/ItemsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/ItemsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/ItemsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/impl/ItemsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/wonder4work/service/impl/ItemsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,21 +82,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CategoryService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/CategoryService.java">
+    <leaf>
+      <file leaf-file-name="ItemsMapperCustom.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/ItemsMapperCustom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewItemsVO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/NewItemsVO.java">
+      <file leaf-file-name="ItemsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/ItemsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="298">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,11 +104,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleItemVO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/SimpleItemVO.java">
+      <file leaf-file-name="ShopcartController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/ShopcartController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="101">
+              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CorsConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/CorsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,23 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/StuMapper.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/UsersMapper.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/pom.xml" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsCommentsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsImgServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsParamServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsSpecServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/OrderItemsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/OrdersServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/OrderStatusServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/StuServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/UserAddressServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/JSONResult.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/MD5Utils.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/DateUtil.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/enums/Sex.java" />
         <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/ApplicationBootstrap.java" />
         <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/cofig/Swagger2.java" />
         <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/cofig/CorsConfig.java" />
@@ -176,9 +159,7 @@
         <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/CookieUtils.java" />
         <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/JsonUtils.java" />
         <option value="$PROJECT_DIR$/foodie-dev-api/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/aspect/ServiceLogAspect.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java" />
         <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/enums/YesOrNo.java" />
         <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/CorsConfig.java" />
         <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/CarouselService.java" />
@@ -187,7 +168,6 @@
         <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/bo/readMe.txt" />
         <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/readMe.txt" />
         <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/CarouselServiceImpl.java" />
-        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/CategoryMapper.java" />
         <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/Category-mapper.xml" />
         <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/CategoryVOMapper.java" />
@@ -201,6 +181,26 @@
         <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/CategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/CategoryMapperCustom.java" />
         <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/SimpleItemVO.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/ItemInfoVO.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/CommentLevelCountsVO.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/ItemCommentsVO.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/PagedGridResult.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/DesensitizationUtil.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/SearchItemsVO.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/bo/ShopcatBO.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/ShopcatController.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/ShopcartVO.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsCustom-mapper.xml" />
+        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/ItemsService.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/ItemsMapperCustom.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/ItemsController.java" />
+        <option value="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/ShopcartController.java" />
       </list>
     </option>
   </component>
@@ -242,9 +242,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1068" />
-    <option name="width" value="1101" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="898" />
+    <option name="y" value="6" />
+    <option name="width" value="1259" />
     <option name="height" value="1404" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -257,7 +258,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -359,7 +361,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
@@ -466,56 +468,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="vo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -523,7 +480,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="Ca&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-service/src/main/java/com/wonder4work/service/CategoryService.java&#10;pom&#9;FILE&#9;file://D:/git_sources/foodie-dev/pom.xml&#10;UserB&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/bo/UserBO.java&#10;Users&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-service/src/main/java/com/wonder4work/service/impl/UsersServiceImpl.java&#10;Pass&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java&#10;Swa&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-api/src/main/java/com/wonder4work/cofig/Swagger2.java" />
+    <property name="SearchEverywhereHistoryKey" value="ItemS&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsServiceImpl.java&#10;Ca&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-service/src/main/java/com/wonder4work/service/CategoryService.java&#10;pom&#9;FILE&#9;file://D:/git_sources/foodie-dev/pom.xml&#10;UserB&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/bo/UserBO.java&#10;Users&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-service/src/main/java/com/wonder4work/service/impl/UsersServiceImpl.java&#10;Pass&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java&#10;Swa&#9;FILE&#9;file://D:/git_sources/foodie-dev/foodie-dev-api/src/main/java/com/wonder4work/cofig/Swagger2.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -537,12 +494,16 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wonder4work.pojo.vo" />
+      <recent name="com.wonder4work.mapper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git_sources\foodie-dev\foodie-dev-common\src\main\java\com\wonder4work\utils" />
       <recent name="D:\git_sources\foodie-dev\foodie-dev-mapper\src\main\resources\mapper" />
       <recent name="D:\git_sources\foodie-dev\foodie-dev-pojo\src\main\java\com\wonder4work\pojo\vo" />
       <recent name="D:\git_sources\foodie-dev\foodie-dev-common\src\main\java\com\wonder4work\enums" />
       <recent name="D:\git_sources\foodie-dev\foodie-dev-api\src\main\resources" />
-      <recent name="D:\git_sources\foodie-dev\foodie-dev-common\src\main\java\com\wonder4work\utils" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -558,6 +519,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ApplicationBootstrap">
+    <configuration name="DesensitizationUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wonder4work.utils.DesensitizationUtil" />
+      <module name="foodie-dev-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wonder4work.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wonder4work.utils.MD5Utils" />
       <module name="foodie-dev-common" />
@@ -623,10 +595,12 @@
     <list>
       <item itemvalue="Spring Boot.ApplicationBootstrap" />
       <item itemvalue="Application.MD5Utils" />
+      <item itemvalue="Application.DesensitizationUtil" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ApplicationBootstrap" />
+        <item itemvalue="Application.DesensitizationUtil" />
         <item itemvalue="Application.MD5Utils" />
       </list>
     </recent_temporary>
@@ -653,12 +627,17 @@
       <workItem from="1585385242148" duration="1895000" />
       <workItem from="1585458541540" duration="17532000" />
       <workItem from="1585723015571" duration="10878000" />
-      <workItem from="1585899596038" duration="1061000" />
+      <workItem from="1585899596038" duration="2122000" />
+      <workItem from="1585980325891" duration="7682000" />
+      <workItem from="1586259992717" duration="64000" />
+      <workItem from="1586440284175" duration="167000" />
+      <workItem from="1586583957549" duration="10414000" />
+      <workItem from="1586674378167" duration="3006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50172000" />
+    <option name="totallyTimeSpent" value="72566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -671,7 +650,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="944" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -685,15 +663,16 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.52398527" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32919255" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41697416" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5805658" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296433" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48460987" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33291924" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.49391553" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -702,7 +681,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -720,243 +698,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/enums/Sex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/utils/Props.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/utils/HttpReq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/DayCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/Sid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/Users.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.4.0/springfox-spring-web-2.4.0.jar!/springfox/documentation/spring/web/plugins/Docket.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="247" column="30" selection-start-line="247" selection-start-column="30" selection-end-line="247" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/JSONResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.6/swagger-annotations-1.5.6.jar!/io/swagger/annotations/ApiOperation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.6/swagger-annotations-1.5.6.jar!/io/swagger/annotations/Api.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.6/swagger-annotations-1.5.6.jar!/io/swagger/annotations/ApiParam.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.6/swagger-annotations-1.5.6.jar!/io/swagger/annotations/ApiModel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.6/swagger-annotations-1.5.6.jar!/io/swagger/annotations/ApiModelProperty.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/bo/UserBO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/CookieUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="307" column="11" lean-forward="true" selection-start-line="307" selection-start-column="11" selection-end-line="307" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/JsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-626">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/UsersService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/UsersServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.wonder4work:foodie-dev:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.wonder4work:foodie-dev:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.wonder4work:foodie-dev:1.0-SNAPSHOT</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot:jar:2.1.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot:jar:2.1.5.RELEASE/org.springframework:spring-context:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.5.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.5.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.5.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.5.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2/org.apache.logging.log4j:log4j-api:jar:2.11.2</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.5.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.26</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE/org.springframework:spring-jcl:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.5.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.5.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.5.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.5.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.5.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.5.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.8</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.5.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.5.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.19</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.5.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.19</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.5.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.19</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework:spring-web:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework:spring-web:jar:5.1.7.RELEASE/org.springframework:spring-beans:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework:spring-webmvc:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework:spring-webmvc:jar:5.1.7.RELEASE/org.springframework:spring-aop:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.5.RELEASE/org.springframework:spring-webmvc:jar:5.1.7.RELEASE/org.springframework:spring-expression:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-configuration-processor:jar:2.1.5.RELEASE</node>
-            <node x="" y="">mysql:mysql-connector-java:jar:5.1.47</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/com.baomidou:mybatis-plus:jar:3.2.0</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/com.baomidou:mybatis-plus:jar:3.2.0/com.baomidou:mybatis-plus-extension:jar:3.2.0</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/com.baomidou:mybatis-plus:jar:3.2.0/com.baomidou:mybatis-plus-extension:jar:3.2.0/com.baomidou:mybatis-plus-core:jar:3.2.0</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/com.baomidou:mybatis-plus:jar:3.2.0/com.baomidou:mybatis-plus-extension:jar:3.2.0/com.baomidou:mybatis-plus-core:jar:3.2.0/com.baomidou:mybatis-plus-annotation:jar:3.2.0</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/com.baomidou:mybatis-plus:jar:3.2.0/com.baomidou:mybatis-plus-extension:jar:3.2.0/com.baomidou:mybatis-plus-core:jar:3.2.0/com.github.jsqlparser:jsqlparser:jar:2.1</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/com.baomidou:mybatis-plus:jar:3.2.0/com.baomidou:mybatis-plus-extension:jar:3.2.0/com.baomidou:mybatis-plus-core:jar:3.2.0/org.mybatis:mybatis:jar:3.5.2</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/com.baomidou:mybatis-plus:jar:3.2.0/com.baomidou:mybatis-plus-extension:jar:3.2.0/org.mybatis:mybatis-spring:jar:2.0.2</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.5.RELEASE</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.5.RELEASE/com.zaxxer:HikariCP:jar:3.2.0</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.5.RELEASE/org.springframework:spring-jdbc:jar:5.1.7.RELEASE</node>
-            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.5.RELEASE/org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-tx:jar:5.1.7.RELEASE</node>
-            <node x="" y="">org.projectlombok:lombok:jar:1.18.8</node>
-            <node x="" y="">commons-codec:commons-codec:jar:1.11</node>
-            <node x="" y="">org.apache.commons:commons-lang3:jar:3.8.1</node>
-            <node x="" y="">commons-io:commons-io:jar:1.3.2</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.swagger:swagger-annotations:jar:1.5.6</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.swagger:swagger-models:jar:1.5.6</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.swagger:swagger-models:jar:1.5.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-spi:jar:2.4.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-spi:jar:2.4.0/io.springfox:springfox-core:jar:2.4.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-schema:jar:2.4.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-swagger-common:jar:2.4.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-spring-web:jar:2.4.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/com.google.guava:guava:jar:18.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/com.fasterxml:classmate:jar:1.4.0</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.26</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE</node>
-            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE</node>
-            <node x="" y="">io.springfox:springfox-swagger-ui:jar:2.4.0</node>
-            <node x="" y="">com.github.xiaoymin:swagger-bootstrap-ui:jar:1.6</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.7115040075436115" x="3268.0" y="590.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
         </state>
       </provider>
     </entry>
@@ -981,16 +726,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/config/Swagger2.java" />
-    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/CorsConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/enums/YesOrNo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1009,13 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/enums/CommentLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="6" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1082,38 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="108" column="33" lean-forward="true" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/Category-mapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/CategoryCustom-mapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/CategoryMapperCustom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1138,20 +838,250 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/NewItemsVO.java">
+    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/CategoryMapperCustom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/CategoryCustom-mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/SimpleItemVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/NewItemsVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/ItemInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/CommentLevelCountsVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/enums/CommentLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/experimental/Accessors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/ItemsComments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/ItemCommentsVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/Items-mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/MybatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="121" column="21" lean-forward="true" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsComments-mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.12/pagehelper-spring-boot-autoconfigure-1.2.12.jar!/com/github/pagehelper/autoconfigure/PageHelperProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/PagedGridResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/SearchItemsVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/wonder4work/utils/DesensitizationUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/PassportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-718">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/bo/ShopcatBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/wonder4work/pojo/vo/ShopcartVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsCustom-mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/ItemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="94" column="7" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/wonder4work/service/impl/ItemsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="150" column="29" selection-start-line="150" selection-start-column="28" selection-end-line="150" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/wonder4work/mapper/ItemsMapperCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/ItemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/wonder4work/controller/ShopcartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

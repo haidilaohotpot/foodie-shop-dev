@@ -80,6 +80,9 @@ public class PassportController {
         CookieUtils.setCookie(request,response,"user",
                 JsonUtils.objectToJson(userResult),true);
 
+        // TODO: 2020/4/11 生成用户token，存入redis
+        // TODO: 2020/4/11 同步购物车数据
+
         return JSONResult.ok(userResult);
     }
 
