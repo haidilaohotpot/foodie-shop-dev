@@ -166,6 +166,30 @@ public class ItemsServiceImpl extends ServiceImpl<ItemsMapper, Items> implements
         return shopcartVOS;
     }
 
+    @Transactional(propagation = Propagation.REQUIRED)
+    @Override
+    public void decreaseItemSpecStock(String specId, Integer buyCounts) throws RuntimeException {
+
+        // 不推荐使用synchronized 集群下无用 性能低
+
+
+        // 可使用redis加锁 或zookeeper 分布式锁
+        // TODO: 2020/4/15  使用redis加锁 实现分布式锁
+        // 查询库存
+ /*       int stock = 2;
+
+        // 判断库存是否能够减少到0以下
+        if (stock - buyCounts < 0) {
+            // 提示用户库存不够
+        }*/
+
+        int result = itemsMapperCustom.decreaseItemSpecStock(specId, buyCounts);
+
+        if (result != 1) {
+            throw new RuntimeException("订单创建失败，原因：库存不足");
+        }
+    }
+
     private PagedGridResult setterPagedGrid(Integer page, List<?> list) {
         PageInfo<?> pageList = new PageInfo<>(list);
         PagedGridResult grid = new PagedGridResult();

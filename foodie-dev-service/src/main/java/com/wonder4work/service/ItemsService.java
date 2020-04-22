@@ -95,4 +95,11 @@ public interface ItemsService extends IService<Items> {
      */
     List<ShopcartVO> queryItemsBySpecIds(String specIds);
 
+
+    /**
+     * 减少库存
+     * @param specId
+     */
+    void decreaseItemSpecStock(String specId,Integer buyCounts) throws RuntimeException;
+
 }
