@@ -13,4 +13,5 @@ import com.wonder4work.pojo.ItemsComments;
  */
 public interface ItemsCommentsMapper extends BaseMapper<ItemsComments> {
 
+
 }

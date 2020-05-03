@@ -84,6 +84,9 @@ public class OrderController extends BaseController{
             return JSONResult.errorMsg("支付中心订单创建失败，请联系管理员");
         }
 */
+       // 模拟支付成功
+        ordersService.updateOrderStatus(orderId, OrderStatusEnum.WAIT_DELIVER.type);
+
         return JSONResult.ok(orderId);
     }
 
